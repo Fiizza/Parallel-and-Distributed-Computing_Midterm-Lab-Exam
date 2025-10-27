@@ -68,10 +68,6 @@ Further improvement could be achieved with faster disk I/O or GPU-based parallel
 
 
 
-## Author
-Name: Fizzaa  
-Roll No: SP23-BAI-023  
-Collaborator: SP23-BAI-016  
 
 ---
 
